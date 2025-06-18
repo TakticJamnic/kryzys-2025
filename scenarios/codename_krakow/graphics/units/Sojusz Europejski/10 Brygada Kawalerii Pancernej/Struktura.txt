@@ -1,0 +1,43 @@
+10 Brygada Kawalerii Pancernej
+
+1. Batalion Czołgów
+  kompania Leopardów 2A4
+  kompania Leopardów 2A4
+  kompania Leopardów 2A4
+  kompania Leopardów 2A4
+
+
+24. Batalion Ułanów
+  kompania Leopardów 2A4
+  kompania Leopardów 2A4
+  kompania Leopardów 2A4
+  kompania Leopardów 2A4
+
+
+10 Batalion Zmechanizowany
+  kompania BWP-1
+  kompania BWP-1
+  kompania BWP-1
+  kompania BWP-1
+  kompania Godździk/Rak
+
+
+Dywizjon Artylerii
+  bateria Goździk
+  bateria Goździk
+  bateria Goździk
+
+
+Dywizjon Plot
+  bateria Loara
+  bateria ZUR-23-2
+  bateria ZUR-23-2
+
+
+Kompania rozpoznawcza
+ BRDM-2M96i 
+
+
+Kompania Rozpoznawcza
+Kompania Saperów
+Batalion Logistyczny
