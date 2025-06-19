@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scenariusz z Zakładkami</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .tabs {
+            display: flex;
+            border-bottom: 2px solid #ccc;
+            margin-bottom: 20px;
+        }
+        .tab {
+            padding: 10px 20px;
+            cursor: pointer;
+            border: 1px solid #ccc;
+            border-bottom: none;
+            background-color: #f9f9f9;
+            margin-right: 5px;
+            font-weight: bold;
+        }
+        .tab.active {
+            background-color: #fff;
+            border-top: 2px solid #007BFF;
+            color: #007BFF;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .warning {
+            font-size: 1.2em;
+            color: red;
+            margin: 20px 0;
+        }
+        h1 {
+            color: #444;
+            font-size: 2em;
+            margin-top: 30px;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+    <script>
+        function showTab(tabIndex) {
+            const tabs = document.querySelectorAll('.tab');
+            const contents = document.querySelectorAll('.tab-content');
+
+            tabs.forEach((tab, index) => {
+                if (index === tabIndex) {
+                    tab.classList.add('active');
+                } else {
+                    tab.classList.remove('active');
+                }
+            });
+
+            contents.forEach((content, index) => {
+                if (index === tabIndex) {
+                    content.classList.add('active');
+                } else {
+                    content.classList.remove('active');
+                }
+            });
+        }
+    </script>
+</head>
+<body>
+
+    <div class="warning">
+        Uwaga: Poniższy scenariusz nie przedstawia żadnej oceny wydarzeń politycznych w Polsce i w Europie. Ta hipotetyczna sytuacja jest wymyślona w celach zabawy i refleksji nad sposobem i procesem prowadzenia działań zbrojnych na terenie Polski, z uwzględnieniem ludności cywilnej oraz infrastruktury krytycznej dla Polski.
+    </div>
+
+    <div class="tabs">
+        <div class="tab active" onclick="showTab(0)">Incydent Tarnowski</div>
+        <div class="tab" onclick="showTab(1)">Marsz przez Magnuszew</div>
+        <div class="tab" onclick="showTab(2)">Hasło "Kraków"</div>
+    </div>
+
+    <div class="tab-content active">
+
+    <table>
+        <tr>
+            <td>
+                <h1>Droga w dół</h1>
+                <p>Sytuacja w Polsce pogarszała się już od roku 2004, tuż po przystąpieniu Polski do Unii Europejskiej. Obiecywane dofinansowanie realizowane było nawet wolniej niż przewidywali eurosceptycy, a międzynarodowy kryzys finansowy roku 2008 nie oszczędził Polaków, powodując gwałtowny wzrost bezrobocia i kosztów życia.</p>
+
+                <h1>Pomiędzy Zachodem a Wschodem</h1>
+                <p>Unia Europejska, opuszczana przez kolejne państwa (Frexit 2010, Brexit 2018), przyjęła w końcu radykalny kurs reform, wzmacniając swoje struktury i obierając kurs na zjednoczenie. Z kolei na wschodzie, Rosja prowadziła swoją własną politykę terytorialną, wchłaniając kolejno Gruzję (2008), Białoruś (2015) i tzw. Noworosję (2018).</p>
+
+                <p>Kolejne rządy w Polsce, czując zagrożenie ze wschodu i niestabilność na zachodzie, gwałtownie zwiększały nakłady na zbrojenia. Powszechna stała się militaryzacja życia społecznego, a poprzednie plany rozformowania dywizji szybko zostały zastąpione przez plany tworzenia nowych jednostek, często uzbrojonych w co tylko się dało: w europejski, amerykański, polski czy też zmodernizowany postsowiecki sprzęt.</p>
+            </td>
+	    <td>
+                <p>Swoistą enklawą spokoju pozostawał Śląsk, gdzie popularność zyskiwał ruch tamtejszej, neutralnej wobec obu stron konfliktu, Autonomii.</p>
+
+                <h1>Początek kryzysu</h1>
+                <p>Iskrą w beczce prochu była decyzja Niemiec o reformie Unii w pełną Federację. Rządzące Polską siły proeuropejskie, skupione wokół koalicji politycznej o nazwie Sojusz Europejski, parły do podpisania Akcesji Berlińskiej, aby zapewnić Polsce bezpieczeństwo w ramach europejskiego superpaństwa. W odpowiedzi na to opozycyjne partie utworzyły Blok Wolności, powołując się na konstytucyjną suwerenność państwa polskiego. Obie strony zaczęły mobilizować swoje bojówki, a generałowie i dowódcy wojsk deklarowali poparcie poszczególnych bloków politycznych.</p>
+
+                <p>Rosnące napięcie osiągnęło swoje apogeum, kiedy o północy 13 grudnia roku 2025, w odpowiedzi na gromadzenie się uzbrojonych grup opozycyjnych, prezydent pochodzący z partii Sojuszu Europejskiego ogłosił stan wojenny. Posłowie Bloku Wolności zaczęli wówczas nocną okupację Sejmu i nawoływali do obalenia rządu. Z kolei wyprowadzone na ulice lojalne wobec rządu wojska starały się siłą blokować protesty.</p>
+	    </td>
+            <td>
+                <h1>Incydent Tarnowski</h1>
+                <p>Podczas jednego z takich protestów, tłum pracowników kluczowych dla przemysłu zbrojeniowego Zakładów Mechanicznych w Tarnowie próbował usunąć stacjonujących tam żołnierzy. Padły strzały i pojawiły się pierwsze ofiary śmiertelne. Naprędce zmobilizowane przez prezydenta miasta oddziały samoobrony wyparły żołnierzy i opanowały cały teren zakładów. Lokalni politycy Bloku przemawiając do rozentuzjazmowanego tłumu, wypowiedzieli posłuszeństwo rządowi w Warszawie, a Tarnowskie Zakłady zapowiedziały zwiększenie produkcji broni i amunicji dla oddziałów buntowników.</p>
+
+                <p>Rząd nie zamierzał tolerować takiej sytuacji. Autostradą A4, pomimo drogowych blokad tworzonych przez mieszkańców Małopolski, błyskawicznie zmierzały do Tarnowa lojalne wobec rządu jednostki 2. Brygady Zmechanizowanej Legionów, mające zaprowadzić porządek w zbuntowanym mieście. W odpowiedzi na to Blok Wolności ogłosił powstanie Armii Wolności, a siły samoobrony przemianowane zostały w 16. Tarnowską Samodzielną Brygadę Armii Wolności (TSB-AW). Formowano prowizoryczne jednostki, sprowadzając koleją sprzęt z Lublina i Rzeszowa, które sympatyzowały z Blokiem Wolności.</p>
+
+                <p>Rankiem 20 grudnia wrogie siły spotkały się pod Tarnowem. Cały naród z zapartym tchem nasłuchuje informacji o tym, czy to już początek końca perturbacji, czy też dopiero koniec początku...</p>
+            </td>
+        </tr>
+    </table>
+
+    </div>
+
+    <div class="tab-content">
+<table>
+        <tr>
+            <td>
+                <h1>Wojna informacyjna</h1>
+
+                <p>Po wydarzeniach pod Tarnowem wszystkie kanały komunikacyjne, od telewizji po media społecznościowe, zostały zalane przez burzę informacji, dezinformacji i manipulacji. Każda ze stron konfliktu wykorzystywała media jako broń, celując w serca i umysły Polaków.</p>
+
+		<p>Sojusz Europejski, mając dostęp do zaawansowanych technologii Federacji Europejskiej, uruchomił profesjonalne kampanie propagandowe. W telewizji emitowano obrazy przedstawiające rządowe wojska jako jedyną siłę zdolną zaprowadzić porządek. Tymczasem Blok Wolności skutecznie wykorzystywał oddolne kanały komunikacyjne – fora, lokalne grupy na platformach społecznościowych i amatorskie nagrania, które podkreślały brutalność rządu oraz heroizm „Armii Wolności”</p>
+
+		<p>Zachodnia Europa, w szczególności kraje Federacji Europejskiej, przyjęły narrację rządu w Warszawie. Jednak za oceanem, w Stanach Zjednoczonych, popularność zdobywały opowieści o walce o „prawdziwą wolność” przedstawiane przez Blok Wolności. Sytuację dodatkowo zaogniały fałszywe wiadomości, które trafiały zarówno do Polaków, jak i na arenę międzynarodową, zwiększając napięcie w dyplomacji.</p>
+
+	</td>
+
+
+	<td>
+                <h1>Polska Liga Samoobrony – narodziny trzeciej siły</h1>
+
+                <p>W obliczu eskalacji konfliktu politycznego i wojskowego, a także narastającej obecności rosyjskich wojsk na wschodnich granicach, dowódcy do tej pory jeszcze niezależnych jednostek Wojska Polskiego postanowili działać. Tak powstała Polska Liga Samoobrony (PLS) – niezależne ugrupowanie wojskowe, którego celem było zapewnienie suwerenności Polski wobec zagrożeń zewnętrznych i wewnętrznych.</p>
+
+
+		<p>PLS, złożona głównie z oddziałów Garnizonu Warszawa i 1 Brygady Pancernej, szybko zdobyła poparcie wśród obywateli zmęczonych zarówno rządami Sojuszu Europejskiego, jak i chaosem wywołanym przez Blok Wolności. Liga deklarowała neutralność wobec stron konfliktu politycznego, stawiając na „narodowe odrodzenie”. Jednak jej działania, takie jak przejmowanie magazynów wojskowych i blokowanie marszów obu stron, wskazywały na rosnącą ambicję, by przejąć kontrolę nad sytuacją w kraju.</p>
+
+
+	</td>
+
+
+
+	<td>
+                <h1>Marsz ku Warszawie</h1>
+
+		<p>Pojawienie się PLS spowodowało zmianę rządowych planów, w związku z czym oddziały 17 Wielkopolskiej Brygady Zmechanizowanej, wcześniej skierowane do wsparcia pacyfikacji Tarnowa, zmieniły kurs i ruszyły w stronę Warszawy. Wsparte przez silne lotnictwo wojska lojalistów miały opanować stolicę i nie dopuścić do przeprowadzenia przewrotu wojskowego.</p>
+
+		<p>Jednak to nie był koniec komplikacji. Z południa nadciągała 19 Brygada Zmechanizowana z Lublina, również zmierzająca ku Warszawie. Jej celem było obalenie proeuropejskiego rządu. Sympatycy i bojówkarze Bloku Wolności sformowali również 1 Samodzielny Garwoliński Pułk Strzelców, a z Krakowa nadlatywało wsparcie w postaci wyborowych kompanii powietrznodesantowych.</p>
+
+		<p>W odpowiedzi na zbliżające się zagrożenie, Polska Liga Samoobrony postawiła swoje oddziały w stan najwyższej gotowości, i zablokowała drogi prowadzące do stolicy. Na przedpolach Warszawy, w rejonie historycznego przyczółka Magnuszewskiego, doszło do dramatycznego spotkania trzech sił: lojalistycznego Sojuszu Europejskiego, buntowniczej Armii Wolności oraz Polskiej Ligi Samoobrony.</p>
+
+	</td>
+
+	<td>
+		<h1>Druga Bitwa o Przyczółek Warecko-Magnuszewski</h1>
+
+		<p>Poranek 25 grudnia roku 2025 przyniósł wydarzenia, które nawiązywały do historycznych walk o przyczółek warecko-magnuszewski z czasów II wojny światowej. Z jednej strony rządowe siły 17 Brygady Zmechanizowanej próbowały otworzyć drogę do Warszawy, z drugiej Armia Wolności, w postaci 19. Brygady Zmechanizowanej z Lublina wsparta formacjami z Garwolina i Krakowa, dążyła do zdobycia przewagi w stolicy.</p>
+
+		<p>Wydarzenia które miały się wydarzyć pod Magnuszewem unaoczniły, że Polska znalazła się na krawędzi całkowitej anarchii. Zamiast dwóch stron konfliktu – rządu i opozycji – wyłoniła się trzecia siła, która zaczęła gromadzić coraz większe poparcie. Wśród obywateli coraz częściej padało pytanie: czy Polska Liga Samoobrony jest jedyną nadzieją na uratowanie kraju przed wojną domową i zagrożeniami z zewnątrz, czy też stanie się kolejnym aktorem w walce o władzę?</p>
+
+		<p>Europa i świat spoglądały na Polskę z rosnącym niepokojem. Konflikt przestał być wewnętrzną sprawą jednego kraju, a stał się areną, na której ścierały się interesy międzynarodowe. Jak zakończy się ta dramatyczna rozgrywka? Czy kraj znajdzie drogę do pokoju, czy też chaos pochłonie całą Europę Środkowo-Wschodnią?</p>
+
+	</td>
+        </tr>
+    </table>
+    </div>
+
+    <div class="tab-content">
+
+    <table>
+        <tr>
+            <td>
+                <h1>Zmierzch polityki, świt wojny</h1>
+                <p>Na północ od Krakowa, na terenie Wyżyny Małopolskiej, rozgrywały się kolejne dramatyczne wydarzenia, które miały zaważyć na losach kraju. Armia Wolności, skonsolidowana po zwycięstwie pod Tarnowem, rozpoczęła kontrofensywę w kierunku Kielc. Ich celem było odcięcie lojalistycznych sił rządowych od wsparcia z Warszawy i zabezpieczenie południowego frontu. Buntownicze kolumny pojazdów bojowych i żołnierzy sunęły na północ przez wiosenne roztopy. </p>
+
+                <h1>Polityczne fiasko</h1>
+                <p>W tym samym czasie w Warszawie rozmowy między przedstawicielami rządu, Polskiej Ligi Samoobrony i delegatami Armii Wolności zakończyły się fiaskiem. Wszystkie strony oskarżały się nawzajem o zdradę, brak dobrej woli i współpracę z siłami zewnętrznymi. Polska Liga Samoobrony, początkowo dążąca do neutralności, coraz wyraźniej pokazywała swoje ambicje, prezentując siebie jako jedyną siłę zdolną uratować kraj przed upadkiem. Jednak ich postulaty o przejęciu pełnej władzy tymczasowej spotkały się z ostrym sprzeciwem zarówno Sojuszu Europejskiego, jak i Bloku Wolności.</p>
+
+                <p>Coraz większe obszary kraju ogarniały bunty. Na Mazurach pojawiły się grupy separatystyczne, które, powołując się na historyczne krzywdy, żądały autonomii. Na Pomorzu, gdzie kontrolę utrzymywały siły rządowe, wybuchły masowe protesty stłumione brutalnie przez żandarmerię wojskową. W centralnej Polsce powstawały kolejne oddziały Armii Wolności, kierowane przez byłych wojskowych.</p>
+            </td>
+	    <td>
+
+              <h1>Widmo interwencji</h1>
+                <p>Na wschodnich granicach Polski Rosja zwiększyła swoją obecność wojskową, oficjalnie deklarując, że działania mają na celu ochronę ludności rosyjskojęzycznej w regionie. W praktyce jednak Kreml bacznie obserwował rozwój wydarzeń, gotowy wkroczyć w odpowiednim momencie. Tymczasem Federacja Europejska wysłała do Warszawy ultimatum, żądając od rządu zdławienia buntu i stabilizacji sytuacji w kraju.</p>
+
+                <p>Stany Zjednoczone, wciąż rozdarte wewnętrznymi problemami, nie podjęły żadnych działań, ograniczając się do symbolicznego wsparcia Armii Wolności w postaci dostaw sprzętu przez prywatne firmy.</p>
+
+                <h1>Ofensywa na Wyżynie Małopolskiej</h1>
+                <p>Na wyżynnych terenach Małopolski Armia Wolności posuwała się szybko. Lojalistyczne jednostki, wyczerpane walkami pod Tarnowem, nie były w stanie skutecznie stawiać oporu. Kluczowymi punktami stały się Chmielnik, Jędrzejów i Szczekociny, których strategiczne położenie mogło zapewnić kontrolę nad drogami do Kielc i Warszawy. Władze tych miast, rozdarte między lojalnością wobec rządu a rosnącym poparciem dla Armii Wolności, ogłosiły neutralność. To jednak nie powstrzymało walk.</p>  
+
+	    </td>
+            <td>
+                <p>W teren walk została skierowana elitarna 10 Brygada Kawalerii Pancernej. Czekając na wsparcie z reorganizujących się oddziałów 2 Brygady Legionów i 17 Wielkopolskiej Brygady Zmechanizowanej, siły Sojuszu czekały na przeciwnika. Oddziały Strzelców Podhalańskich z Rzeszowa i Kłodzka zostały wyznaczone do przeprowadzenia ataku, przy wsparciu Brygady Powietrznodesantowej z Krakowa. Posiłki, w postaci brygad Lubelskich i Tarnowskich zmierzały już na pole bitwy.</p>
+
+                <h1>Przyszłość w chaosie</h1>
+
+                <p>Wraz z nadejściem nowego roku Polska znajdowała się na krawędzi. Kraj, rozdarty między trzema głównymi siłami i niezliczonymi lokalnymi ruchami, zmierzał ku niepewnej przyszłości. Czy którakolwiek ze stron będzie w stanie przechylić szalę zwycięstwa na swoją korzyść? A może naród, zmęczony krwią i zniszczeniem, odnajdzie sposób na odbudowę, zanim chaos pochłonie całą Europę Środkowo-Wschodnią?.</p>
+            </td>
+        </tr>
+    </table>
+
+    </div>
+
+</body>
+</html>

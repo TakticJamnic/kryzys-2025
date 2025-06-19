@@ -1,0 +1,23 @@
+21 Brygada Strzelców Podhalańskich
+
+ 1. Batalion Strzelców Podhalańskich
+   1. Kompania KTO Rosomak
+   2. Kompania BWP-1
+   3. Kompania rozpoznawcza BDRM-2
+   4. Kompania wsparcia Rak
+ 5. Batalion Strzelców Podhalańskich
+   1. Kompania KTO Rosomak
+   2. Kompania BWP-1
+   3. Kompania rozpoznawcza BDRM-2
+   4. Kompania wsparcia Rak
+ 22. Batalion Piechoty Górskiej
+   1. Kompania KTO Rosomak
+   2. Kompania BWP-1
+   3. Kompania rozpoznawcza BDRM-2
+   4. Kompania wsparcia Rak
+14 Dywizjon Artylerii
+   1. Bateria AHS Krab
+   2. Bateria AHS Krab
+   3. Bateria Goździk
+
+Kompania Logistyczna
