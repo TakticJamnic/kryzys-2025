@@ -141,7 +141,7 @@ Operacja we Włocławku unaoczniła, że konflikt w Polsce staje się coraz bard
 </details>
 
 ### 4️⃣ Atak na Kielce
-<img src="scenarios/attack_on_kielce/graphics/splash.png" width="400" height="240">
+<img src="scenarios/attack_on_kielce/graphics/Splash.png" width="400" height="240">
 
 <details>
 <summary>➡️ Atak na Kielce - więcej informacji</summary>
