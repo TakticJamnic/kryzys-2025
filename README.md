@@ -47,6 +47,9 @@ Kryzys-2025/
 ```
 
 ## 🎲 Scenariusze
+
+---
+
 ### 1️⃣ Incydent Tarnowski
 <img src="scenarios/tarnovian_incident/graphics/screenshots/screen.png" width="400" height="280">
 
@@ -78,6 +81,7 @@ Rząd nie zamierzał tolerować takiej sytuacji. Autostradą A4, pomimo drogowyc
 Rankiem 20 grudnia wrogie siły spotkały się pod Tarnowem. Cały naród z zapartym tchem nasłuchuje informacji o tym, czy to już początek końca perturbacji, czy też dopiero koniec początku...
 </details>
 
+---
 
 ### 2️⃣ Marsz przez Magnuszew
 <img src="scenarios/march_through_magnushew/graphics/screenshots/screen.png" width="240" height="340">
@@ -114,6 +118,8 @@ Wydarzenia które miały się wydarzyć pod Magnuszewem unaoczniły, że Polska 
 Europa i świat spoglądały na Polskę z rosnącym niepokojem. Konflikt przestał być wewnętrzną sprawą jednego kraju, a stał się areną, na której ścierały się interesy międzynarodowe. Jak zakończy się ta dramatyczna rozgrywka? Czy kraj znajdzie drogę do pokoju, czy też chaos pochłonie całą Europę Środkowo-Wschodnią?
 </details>
 
+---
+
 ### 3️⃣ Włocławska Zapora
 <img src="scenarios/wloclavian_dam/graphics/screenshots/screenshot.png" width="340" height="240">
 
@@ -140,6 +146,8 @@ Operacja we Włocławku unaoczniła, że konflikt w Polsce staje się coraz bard
 
 </details>
 
+---
+
 ### 4️⃣ Atak na Kielce
 <img src="scenarios/attack_on_kielce/graphics/Splash.png" width="400" height="240">
 
@@ -157,6 +165,7 @@ Jednak Kielce, zajęte przez oddziały buntowników, nie były na straconej pozy
 Podhalańczycy planowali zatrzymać przeciwnika przed wejściem do miasta i uderzyć świeżymi siłami, zmuszając lojalistów do desperackiej obrony.
 </details>
 
+---
 
 ### 5️⃣ Hasło "Kraków"
 <img src="scenarios/codename_krakow/graphics/screenshots/screen.png" width="340" height="240">
@@ -181,7 +190,6 @@ W teren walk została skierowana elitarna 10 Brygada Kawalerii Pancernej. Czekaj
 
 ### Przyszłość w chaosie
 Wraz z nadejściem nowego roku Polska znajdowała się na krawędzi. Kraj, rozdarty między trzema głównymi siłami i niezliczonymi lokalnymi ruchami, zmierzał ku niepewnej przyszłości. Czy którakolwiek ze stron będzie w stanie przechylić szalę zwycięstwa na swoją korzyść? A może naród, zmęczony krwią i zniszczeniem, odnajdzie sposób na odbudowę, zanim chaos pochłonie całą Europę Środkowo-Wschodnią?.
-
-
-
 </details>
+
+---
