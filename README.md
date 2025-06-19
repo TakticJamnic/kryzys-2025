@@ -15,10 +15,51 @@ Kryzys 2025 opowiada o hipotetycznej wojnie domowej w Polsce - trzy strony konfl
 
 ## Scenariusze
 
-* 1️⃣ Incydent Tarnowski - siły Sojuszu Europejskiego próbują zgasić zarzewie buntu w Tarnowie
-* 2️⃣ Marsz przez Magnuszew - Sojusz Europejski i Armia Wolności ścigają się do Warszawy aby obalić albo obronić rząd, ale na drodze staje im Polska Liga Samoobrony.
-* 3️⃣ Włocławska Zapora - Polska Liga Samoobrony planuje przejąć infrastrukturę krytyczną z rąk Sojuszu Europejskiego.
-* 4️⃣ Atak na Kielce - Garnizon Kielc broni się przed Sojuszem Europejskim w oczekiwaniu na odsiecz ze strony Armii Wolności.
+---
+
+1️⃣ **Incydent Tarnowski**
+
+<img src="scenarios/tarnovian_incident/graphics/splash.png" width="400" height="240">
+
+<img src="scenarios/tarnovian_incident/graphics/screenshots/screen.png" width="400" height="280">
+
+Siły Sojuszu Europejskiego próbują zgasić zarzewie buntu w Tarnowie
+
+---
+
+2️⃣ **Marsz przez Magnuszew**
+
+<img src="scenarios/march_through_magnushew/graphics/splash.png" width="400" height="240">
+
+<img src="scenarios/march_through_magnushew/graphics/screenshots/screen.png" width="240" height="340">
+
+Sojusz Europejski i Armia Wolności ścigają się do Warszawy aby obalić albo obronić rząd, ale na drodze staje im Polska Liga Samoobrony.
+
+---
+
+3️⃣ **Włocławska Zapora**
+
+  <img src="scenarios/wloclavian_dam/graphics/splash.png" width="400" height="240">
+
+<img src="scenarios/wloclavian_dam/graphics/screenshots/screenshot.png" width="340" height="240">
+
+
+Polska Liga Samoobrony planuje przejąć infrastrukturę krytyczną z rąk Sojuszu Europejskiego. 
+
+
+---
+4️⃣ **Atak na Kielce**
+
+<img src="scenarios/attack_on_kielce/graphics/splash.png" width="400" height="240">
+
+Garnizon Kielc broni się przed Sojuszem Europejskim w oczekiwaniu na odsiecz ze strony Armii Wolności.
+
+---
+
+  <img src="scenarios/codename_krakow/graphics/splash.png" width="400" height="240">
+
+<img src="scenarios/codename_krakow/graphics/screenshots/screen.png" width="340" height="240">
+
 * 5️⃣ Hasło "Kraków" - Sojusz Europejski uderza na stolicę buntu - Kraków. Naprzeciw stoją regularne siły Armii Wolności.
 
 ## Struktura repozytorium

@@ -1,0 +1,82 @@
+22
+
+19 Lubelska Brygada Zmechanizowana
+ 1. Batalion zmechanizowany
+	BWR
+	Anders BWP
+	BMP-2
+	BMP-2
+ 2. Batalion czołgów
+	T94
+	T94
+	T72
+ 3. Dywizjon Artylerii
+	Krab
+	Loara (p-lot)
+	
+
+ Pilica
+
+
+1 Garwoliński Samodzielny Pułk Strzelców Zmotoryzowanych
+ 1. Batalion
+	BMP-1
+	Piechota
+	Quad
+ 2. Batalion
+	BMP-1
+	Piechota
+	Piechota
+ 3. Artyleria
+	M177
+
+6 Krakowska Brygada Spadochronowa
+ 16 Batalion powietrznodesantowy
+	Piechota (helikopter)
+	Piechota (helikopter)
+	Piechota (helikopter)
+
+Klucz Śmigłowców
+Klucz Śmigłowców
+
+--------
+
+19
+
+17 Wielkopolska Brygada Zmechanizowana
+ 1. Batalion ZZmot
+	Borsuk
+	KTO Ryś
+	BMP-2
+	BMP-2
+
+ 2. Batalion ZZmot
+	Borsuk
+	Rosomak
+	BMP-2
+ 3. Batalion
+	Leopard
+	Leopard
+	Leopard
+ 4. Dywizjon
+	K9
+	Rak
+
+Samodzielna Łódzka Pułk SE
+ 1. Batalion Piechoty
+	Piechota zmot
+	Piechota zmot
+	Rozpoznawcze
+ 3. Batalion czołgów
+	T-72
+ 4. Artyleria
+	Holowana
+
+2 Brygada Zmechanizowana Legionów
+ 3. Batalion czołgów
+	3 kompania Leopard
+ 4. Artyleria
+	B K9
+
+Klucz MiG-29
+Klucz MiG-29
