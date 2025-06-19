@@ -51,7 +51,7 @@ Kryzys-2025/
 ---
 
 ### 1️⃣ Incydent Tarnowski
-<img src="scenarios/tarnovian_incident/graphics/screenshots/screen.png" width="400" height="280">
+<img src="scenarios/tarnovian_incident/graphics/screenshots/screen.png" width="400" height="240">
 
 Regularne wojsko Sojuszu Europejskiego próbuje spacyfikować buntujące się bojówki Armii Wolności z Tarnowa.
 
